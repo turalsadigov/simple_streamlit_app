@@ -1,0 +1,11 @@
+{
+    "https://connect.sepion.io": {
+        "server_url": "https://connect.sepion.io",
+        "filename": "/Users/turalsadigov/Desktop/simple_streamlit_app",
+        "app_url": "https://connect.sepion.io/content/6cea05e7-3096-44da-9b88-40ff123efbe0/",
+        "app_id": "6cea05e7-3096-44da-9b88-40ff123efbe0",
+        "app_guid": "6cea05e7-3096-44da-9b88-40ff123efbe0",
+        "title": "simple_streamlit_app",
+        "app_mode": "python-dash"
+    }
+}
