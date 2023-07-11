@@ -15,13 +15,13 @@
   },
   "files": {
     "requirements.txt": {
-      "checksum": "fadd37d05babdd5f34396861222bab43"
+      "checksum": "a9df1af972f9d4d7c813f45c7b1d4733"
     },
     ".DS_Store": {
-      "checksum": "8aeb7f37abbde2de95bb44089895dc3b"
+      "checksum": "67d83f56bd563de9a1564e44c4579a76"
     },
     "app.py": {
-      "checksum": "311968fbfb4bb92ecee657c54503a7a1"
+      "checksum": "79954c3f0a799bf9c2c727777e9647da"
     }
   }
 }
