@@ -24,6 +24,6 @@ jobs:
       - name: step 5 publish prime app
         uses: rstudio/actions/connect-publish@main
         with:
-          target: connect
-          CONNECT_SERVER: ${{ secrets.CONNECT_SERVER }}
-          CONNECT_API_KEY: ${{ secrets.CONNECT_API_KEY }}
+          url: ${{ secrets.CONNECT_SERVER }}
+          api-key: ${{ secrets.CONNECT_API_KEY }}
+          access-type: logged_in
