@@ -20,7 +20,7 @@ jobs:
           pip install rsconnect-python
       - name: step 4 create a manifest.json file
         run: |
-          rsconnect write-manifest streamlit app.py
+          rsconnect write-manifest streamlit .
       - name: step 5 publish prime app
         uses: rstudio/actions/connect-publish@main
         with:
